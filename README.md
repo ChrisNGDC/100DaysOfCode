@@ -6,104 +6,104 @@ I'm not doing 1 each day but a few since i know a bit already.
 
 <h5><u>Days:</u></h5>
 <ul style="list-style:none; padding-left: 0">
-    <li>&#x2714;&#xFE0F Day 1: <a href="./Day1">Band Name Generator</a></li>
-    <li>&#x2714;&#xFE0F Day 2: <a href="./Day2">Tip Calculator</a></li>
-    <li>&#x2714;&#xFE0F Day 3: <a href="./Day3">Treasure Island</a></li>
-    <li>&#x2714;&#xFE0F Day 4: <a href="./Day4">Rock Paper Scissors</a></li>
-    <li>&#x274C; Day 5</li>
-    <li>&#x274C Day 6</li>
-    <li>&#x274C Day 7</li>
-    <li>&#x274C Day 8</li>
-    <li>&#x274C Day 9</li>
-    <li>&#x274C Day 10</li>
-    <li>&#x274C Day 11</li>
-    <li>&#x274C Day 12</li>
-    <li>&#x274C Day 13</li>
-    <li>&#x274C Day 14</li>
-    <li>&#x274C Day 15</li>
-    <li>&#x274C Day 16</li>
-    <li>&#x274C Day 17</li>
-    <li>&#x274C Day 18</li>
-    <li>&#x274C Day 19</li>
-    <li>&#x274C Day 20</li>
-    <li>&#x274C Day 21</li>
-    <li>&#x274C Day 22</li>
-    <li>&#x274C Day 23</li>
-    <li>&#x274C Day 24</li>
-    <li>&#x274C Day 25</li>
-    <li>&#x274C Day 26</li>
-    <li>&#x274C Day 27</li>
-    <li>&#x274C Day 28</li>
-    <li>&#x274C Day 29</li>
-    <li>&#x274C Day 30</li>
-    <li>&#x274C Day 31</li>
-    <li>&#x274C Day 32</li>
-    <li>&#x274C Day 33</li>
-    <li>&#x274C Day 34</li>
-    <li>&#x274C Day 35</li>
-    <li>&#x274C Day 36</li>
-    <li>&#x274C Day 37</li>
-    <li>&#x274C Day 38</li>
-    <li>&#x274C Day 39</li>
-    <li>&#x274C Day 40</li>
-    <li>&#x274C Day 41</li>
-    <li>&#x274C Day 42</li>
-    <li>&#x274C Day 43</li>
-    <li>&#x274C Day 44</li>
-    <li>&#x274C Day 45</li>
-    <li>&#x274C Day 46</li>
-    <li>&#x274C Day 47</li>
-    <li>&#x274C Day 48</li>
-    <li>&#x274C Day 49</li>
-    <li>&#x274C Day 50</li>
-    <li>&#x274C Day 51</li>
-    <li>&#x274C Day 52</li>
-    <li>&#x274C Day 53</li>
-    <li>&#x274C Day 54</li>
-    <li>&#x274C Day 55</li>
-    <li>&#x274C Day 56</li>
-    <li>&#x274C Day 57</li>
-    <li>&#x274C Day 58</li>
-    <li>&#x274C Day 59</li>
-    <li>&#x274C Day 60</li>
-    <li>&#x274C Day 61</li>
-    <li>&#x274C Day 62</li>
-    <li>&#x274C Day 63</li>
-    <li>&#x274C Day 64</li>
-    <li>&#x274C Day 65</li>
-    <li>&#x274C Day 66</li>
-    <li>&#x274C Day 67</li>
-    <li>&#x274C Day 68</li>
-    <li>&#x274C Day 69</li>
-    <li>&#x274C Day 70</li>
-    <li>&#x274C Day 71</li>
-    <li>&#x274C Day 72</li>
-    <li>&#x274C Day 73</li>
-    <li>&#x274C Day 74</li>
-    <li>&#x274C Day 75</li>
-    <li>&#x274C Day 76</li>
-    <li>&#x274C Day 77</li>
-    <li>&#x274C Day 78</li>
-    <li>&#x274C Day 79</li>
-    <li>&#x274C Day 80</li>
-    <li>&#x274C Day 81</li>
-    <li>&#x274C Day 82</li>
-    <li>&#x274C Day 83</li>
-    <li>&#x274C Day 84</li>
-    <li>&#x274C Day 85</li>
-    <li>&#x274C Day 86</li>
-    <li>&#x274C Day 87</li>
-    <li>&#x274C Day 88</li>
-    <li>&#x274C Day 89</li>
-    <li>&#x274C Day 90</li>
-    <li>&#x274C Day 91</li>
-    <li>&#x274C Day 92</li>
-    <li>&#x274C Day 93</li>
-    <li>&#x274C Day 94</li>
-    <li>&#x274C Day 95</li>
-    <li>&#x274C Day 96</li>
-    <li>&#x274C Day 97</li>
-    <li>&#x274C Day 98</li>
-    <li>&#x274C Day 99</li>
-    <li>&#x274C Day 100</li>
+    <li>&#x2714;&#xFE0F Day 1: <a href="./Day1/main.py">Band Name Generator</a></li>
+    <li>&#x2714;&#xFE0F Day 2: <a href="./Day2/main.py">Tip Calculator</a></li>
+    <li>&#x2714;&#xFE0F Day 3: <a href="./Day3/main.py">Treasure Island</a></li>
+    <li>&#x2714;&#xFE0F Day 4: <a href="./Day4/main.py">Rock Paper Scissors</a></li>
+    <li>&#x2714;&#xFE0F Day 5: <a href="./Day5/main.py">Password Generator</a></li>
+    <li>&#x274C Day 6: <a href="./Day6/main.py"></a></li>
+    <li>&#x274C Day 7: <a href="./Day7/main.py"></a></li>
+    <li>&#x274C Day 8: <a href="./Day8/main.py"></a></li>
+    <li>&#x274C Day 9: <a href="./Day9/main.py"></a></li>
+    <li>&#x274C Day 10: <a href="./Day10/main.py"></a></li>
+    <li>&#x274C Day 11: <a href="./Day11/main.py"></a></li>
+    <li>&#x274C Day 12: <a href="./Day12/main.py"></a></li>
+    <li>&#x274C Day 13: <a href="./Day13/main.py"></a></li>
+    <li>&#x274C Day 14: <a href="./Day14/main.py"></a></li>
+    <li>&#x274C Day 15: <a href="./Day15/main.py"></a></li>
+    <li>&#x274C Day 16: <a href="./Day16/main.py"></a></li>
+    <li>&#x274C Day 17: <a href="./Day17/main.py"></a></li>
+    <li>&#x274C Day 18: <a href="./Day18/main.py"></a></li>
+    <li>&#x274C Day 19: <a href="./Day19/main.py"></a></li>
+    <li>&#x274C Day 20: <a href="./Day20/main.py"></a></li>
+    <li>&#x274C Day 21: <a href="./Day21/main.py"></a></li>
+    <li>&#x274C Day 22: <a href="./Day22/main.py"></a></li>
+    <li>&#x274C Day 23: <a href="./Day23/main.py"></a></li>
+    <li>&#x274C Day 24: <a href="./Day24/main.py"></a></li>
+    <li>&#x274C Day 25: <a href="./Day25/main.py"></a></li>
+    <li>&#x274C Day 26: <a href="./Day26/main.py"></a></li>
+    <li>&#x274C Day 27: <a href="./Day27/main.py"></a></li>
+    <li>&#x274C Day 28: <a href="./Day28/main.py"></a></li>
+    <li>&#x274C Day 29: <a href="./Day29/main.py"></a></li>
+    <li>&#x274C Day 30: <a href="./Day30/main.py"></a></li>
+    <li>&#x274C Day 31: <a href="./Day31/main.py"></a></li>
+    <li>&#x274C Day 32: <a href="./Day32/main.py"></a></li>
+    <li>&#x274C Day 33: <a href="./Day33/main.py"></a></li>
+    <li>&#x274C Day 34: <a href="./Day34/main.py"></a></li>
+    <li>&#x274C Day 35: <a href="./Day35/main.py"></a></li>
+    <li>&#x274C Day 36: <a href="./Day36/main.py"></a></li>
+    <li>&#x274C Day 37: <a href="./Day37/main.py"></a></li>
+    <li>&#x274C Day 38: <a href="./Day38/main.py"></a></li>
+    <li>&#x274C Day 39: <a href="./Day39/main.py"></a></li>
+    <li>&#x274C Day 40: <a href="./Day40/main.py"></a></li>
+    <li>&#x274C Day 41: <a href="./Day41/main.py"></a></li>
+    <li>&#x274C Day 42: <a href="./Day42/main.py"></a></li>
+    <li>&#x274C Day 43: <a href="./Day43/main.py"></a></li>
+    <li>&#x274C Day 44: <a href="./Day44/main.py"></a></li>
+    <li>&#x274C Day 45: <a href="./Day45/main.py"></a></li>
+    <li>&#x274C Day 46: <a href="./Day46/main.py"></a></li>
+    <li>&#x274C Day 47: <a href="./Day47/main.py"></a></li>
+    <li>&#x274C Day 48: <a href="./Day48/main.py"></a></li>
+    <li>&#x274C Day 49: <a href="./Day49/main.py"></a></li>
+    <li>&#x274C Day 50: <a href="./Day50/main.py"></a></li>
+    <li>&#x274C Day 51: <a href="./Day51/main.py"></a></li>
+    <li>&#x274C Day 52: <a href="./Day52/main.py"></a></li>
+    <li>&#x274C Day 53: <a href="./Day53/main.py"></a></li>
+    <li>&#x274C Day 54: <a href="./Day54/main.py"></a></li>
+    <li>&#x274C Day 55: <a href="./Day55/main.py"></a></li>
+    <li>&#x274C Day 56: <a href="./Day56/main.py"></a></li>
+    <li>&#x274C Day 57: <a href="./Day57/main.py"></a></li>
+    <li>&#x274C Day 58: <a href="./Day58/main.py"></a></li>
+    <li>&#x274C Day 59: <a href="./Day59/main.py"></a></li>
+    <li>&#x274C Day 60: <a href="./Day60/main.py"></a></li>
+    <li>&#x274C Day 61: <a href="./Day61/main.py"></a></li>
+    <li>&#x274C Day 62: <a href="./Day6/2main.py"></a></li>
+    <li>&#x274C Day 63: <a href="./Day63/main.py"></a></li>
+    <li>&#x274C Day 64: <a href="./Day64/main.py"></a></li>
+    <li>&#x274C Day 65: <a href="./Day65/main.py"></a></li>
+    <li>&#x274C Day 66: <a href="./Day66/main.py"></a></li>
+    <li>&#x274C Day 67: <a href="./Day67/main.py"></a></li>
+    <li>&#x274C Day 68: <a href="./Day68/main.py"></a></li>
+    <li>&#x274C Day 69: <a href="./Day69/main.py"></a></li>
+    <li>&#x274C Day 70: <a href="./Day70/main.py"></a></li>
+    <li>&#x274C Day 71: <a href="./Day71/main.py"></a></li>
+    <li>&#x274C Day 72: <a href="./Day72/main.py"></a></li>
+    <li>&#x274C Day 73: <a href="./Day73/main.py"></a></li>
+    <li>&#x274C Day 74: <a href="./Day74/main.py"></a></li>
+    <li>&#x274C Day 75: <a href="./Day75/main.py"></a></li>
+    <li>&#x274C Day 76: <a href="./Day76/main.py"></a></li>
+    <li>&#x274C Day 77: <a href="./Day77/main.py"></a></li>
+    <li>&#x274C Day 78: <a href="./Day78/main.py"></a></li>
+    <li>&#x274C Day 79: <a href="./Day79/main.py"></a></li>
+    <li>&#x274C Day 80: <a href="./Day80/main.py"></a></li>
+    <li>&#x274C Day 81: <a href="./Day81/main.py"></a></li>
+    <li>&#x274C Day 82: <a href="./Day82/main.py"></a></li>
+    <li>&#x274C Day 83: <a href="./Day83/main.py"></a></li>
+    <li>&#x274C Day 84: <a href="./Day84/main.py"></a></li>
+    <li>&#x274C Day 85: <a href="./Day85/main.py"></a></li>
+    <li>&#x274C Day 86: <a href="./Day86/main.py"></a></li>
+    <li>&#x274C Day 87: <a href="./Day87/main.py"></a></li>
+    <li>&#x274C Day 88: <a href="./Day88/main.py"></a></li>
+    <li>&#x274C Day 89: <a href="./Day89/main.py"></a></li>
+    <li>&#x274C Day 90: <a href="./Day90/main.py"></a></li>
+    <li>&#x274C Day 91: <a href="./Day91/main.py"></a></li>
+    <li>&#x274C Day 92: <a href="./Day92/main.py"></a></li>
+    <li>&#x274C Day 93: <a href="./Day93/main.py"></a></li>
+    <li>&#x274C Day 94: <a href="./Day94/main.py"></a></li>
+    <li>&#x274C Day 95: <a href="./Day95/main.py"></a></li>
+    <li>&#x274C Day 96: <a href="./Day96/main.py"></a></li>
+    <li>&#x274C Day 97: <a href="./Day97/main.py"></a></li>
+    <li>&#x274C Day 98: <a href="./Day98/main.py"></a></li>
+    <li>&#x274C Day 99: <a href="./Day99/main.py"></a></li>
+    <li>&#x274C Day 100: <a href="./Day100/main.py"></a></li>
 </ul>
