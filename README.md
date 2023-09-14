@@ -5,7 +5,7 @@ This is for the course → <a href="https://100daysofpython.dev/">100 Days of Co
 I'm not doing 1 each day but a few since I know a bit already.
 
 <h5><u>Days:</u></h5>
-<ul style="list-style:none; padding-left: 0">
+<ul style="list-style-type: none; padding-left: 0">
     <li>&#x2714;&#xFE0F Day 1: <a href="./Day1/main.py">Band Name Generator</a></li>
     <li>&#x2714;&#xFE0F Day 2: <a href="./Day2/main.py">Tip Calculator</a></li>
     <li>&#x2714;&#xFE0F Day 3: <a href="./Day3/main.py">Treasure Island</a></li>
@@ -13,7 +13,7 @@ I'm not doing 1 each day but a few since I know a bit already.
     <li>&#x2714;&#xFE0F Day 5: <a href="./Day5/main.py">Password Generator</a></li>
     <li>&#x2714;&#xFE0F Day 6: <a href="./Day6/main.py">Escaping The Maze</a></li>
     <li>&#x2714;&#xFE0F Day 7: <a href="./Day7/main.py">Hangman</a></li>
-    <li>&#x274C Day 8: <a href="./Day8/main.py"></a></li>
+    <li>&#x2714;&#xFE0F Day 8: <a href="./Day8/main.py">Caesar Cipher</a></li>
     <li>&#x274C Day 9: <a href="./Day9/main.py"></a></li>
     <li>&#x274C Day 10: <a href="./Day10/main.py"></a></li>
     <li>&#x274C Day 11: <a href="./Day11/main.py"></a></li>
