@@ -16,7 +16,7 @@ I'm not doing 1 each day but a few since I know a bit already.
     <li>&#x2714;&#xFE0F Day 8: <a href="./Day8/main.py">Caesar Cipher</a></li>
     <li>&#x2714;&#xFE0F Day 9: <a href="./Day9/main.py">Blind Auction</a></li>
     <li>&#x2714;&#xFE0F Day 10: <a href="./Day10/main.py">Calculator</a></li>
-    <li>&#x274C Day 11: <a href="./Day11/main.py"></a></li>
+    <li>&#x2714;&#xFE0F Day 11: <a href="./Day11/main.py">BlackJack</a></li>
     <li>&#x274C Day 12: <a href="./Day12/main.py"></a></li>
     <li>&#x274C Day 13: <a href="./Day13/main.py"></a></li>
     <li>&#x274C Day 14: <a href="./Day14/main.py"></a></li>
