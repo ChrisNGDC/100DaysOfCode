@@ -19,7 +19,7 @@ I'm not doing 1 each day but a few since I know a bit already.
     <li>&#x2714;&#xFE0F Day 11: <a href="./Day11/main.py">Blackjack</a></li>
     <li>&#x2714;&#xFE0F Day 12: <a href="./Day12/main.py">Guessing Game</a></li>
     <li>&#x2714;&#xFE0F Day 13: <a href="./Day13/main.py">Debug practice</a></li>
-    <li>&#x274C Day 14: <a href="./Day14/main.py"></a></li>
+    <li>&#x2714;&#xFE0F Day 14: <a href="./Day14/main.py">Higher or Lower</a></li>
     <li>&#x274C Day 15: <a href="./Day15/main.py"></a></li>
     <li>&#x274C Day 16: <a href="./Day16/main.py"></a></li>
     <li>&#x274C Day 17: <a href="./Day17/main.py"></a></li>
