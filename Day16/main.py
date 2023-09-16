@@ -13,9 +13,8 @@ coffe_maker = CoffeeMaker()
 money_machine = MoneyMachine()
 
 turn_off = False
+print(art.title, art.logo)
 while not turn_off:
-    clear()
-    print(art.title, art.logo)
     while True:
         user_drink = input('What would you like? (espresso/latte/cappuccino) → ').lower()
         if user_drink in ["off", "report"]:
@@ -26,10 +25,13 @@ while not turn_off:
     if user_drink == 'off':
         turn_off = True
     elif user_drink == "report":
+        clear()
+        print(art.title, art.logo)
         coffe_maker.report()
         money_machine.report()
     else:
         if coffe_maker.is_resource_sufficient(user_drink):
-            money_machine.process_coins()
             if money_machine.make_payment(user_drink.cost):
                 coffe_maker.make_coffee(user_drink)
+    clear()
+    print(art.title, art.logo)
