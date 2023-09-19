@@ -23,7 +23,7 @@ I'm not doing 1 each day but a few since I know a bit already.
     <li>&#x2714;&#xFE0F Day 15: <a href="./Day15/main.py">Coffe Machine</a></li>
     <li>&#x2714;&#xFE0F Day 16: <a href="./Day16/main.py">OOP Coffe Machine</a></li>
     <li>&#x2714;&#xFE0F Day 17: <a href="./Day17/main.py">Quiz trivia</a></li>
-    <li>&#x274C Day 18: <a href="./Day18/main.py"></a></li>
+    <li>&#x2714;&#xFE0F Day 18: <a href="./Day18/main.py">The Hirst Painting</a></li>
     <li>&#x274C Day 19: <a href="./Day19/main.py"></a></li>
     <li>&#x274C Day 20: <a href="./Day20/main.py"></a></li>
     <li>&#x274C Day 21: <a href="./Day21/main.py"></a></li>
