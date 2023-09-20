@@ -1,7 +1,6 @@
 import turtle as t
 import random as r
 
-
 screen = t.Screen()
 screen.setup(500, 400)
 screen.bgcolor("#000000")
