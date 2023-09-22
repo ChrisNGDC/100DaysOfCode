@@ -5,6 +5,12 @@ from apple import Apple
 from scoreboard import ScoreBoard
 from snake import Snake
 
+try:
+    with open('data.txt', 'xt') as data:
+        data.write('0')
+except FileExistsError:
+    pass
+
 screen = t.Screen()
 screen.setup(700, 700)
 screen.bgcolor("#CCCCCC")
@@ -40,7 +46,8 @@ while play == "yes":
             apple.move()
             snake.up_difficulty()
             snake.extend()
-        if snake.head.xcor() > 300 or snake.head.xcor() < -300 or snake.head.ycor() > 300 or snake.head.ycor() < -300:
+        if snake.head.xcor() > 310 or snake.head.xcor() < -310 or snake.head.ycor() > 310 or snake.head.ycor() < -310:
+            print(snake.head.ycor())
             score.game_over()
             game_over = True
         for part in snake.body[1:]:
