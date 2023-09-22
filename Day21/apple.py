@@ -1,5 +1,5 @@
-import turtle as t
 import random as r
+import turtle as t
 
 APPLE_SIZE_FACTOR = .5  # Only one to change
 

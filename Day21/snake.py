@@ -1,7 +1,7 @@
 import turtle as t
 
 INITIAL_POS = [(0, 0), (-20, 0), (-40, 0)]
-SNAKE_SIZE_FACTOR = 1  # Only one to change
+SNAKE_SIZE_FACTOR = 1
 SNAKE_SIZE = 20 * SNAKE_SIZE_FACTOR
 UP = 90
 DOWN = 270

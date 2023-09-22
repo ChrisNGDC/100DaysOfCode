@@ -1,8 +1,9 @@
-import turtle as t
 import time
-from snake import Snake
+import turtle as t
+
 from apple import Apple
 from scoreboard import ScoreBoard
+from snake import Snake
 
 screen = t.Screen()
 screen.setup(700, 700)
