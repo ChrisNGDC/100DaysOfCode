@@ -27,7 +27,7 @@ I'm not doing 1 each day but a few since I know a bit already.
     <li>&#x2714;&#xFE0F Day 19: <a href="./Day19/main.py">Turtle Race</a></li>
     <li>&#x2714;&#xFE0F Day 20: <a href="./Day20/main.py">Snake Game Part 1</a></li>
     <li>&#x2714;&#xFE0F Day 21: <a href="./Day21/main.py">Snake Game Complete</a></li>
-    <li>&#x274C Day 22: <a href="./Day22/main.py"></a></li>
+    <li>&#x2714;&#xFE0F Day 22: <a href="./Day22/main.py">Pong Game</a></li>
     <li>&#x274C Day 23: <a href="./Day23/main.py"></a></li>
     <li>&#x274C Day 24: <a href="./Day24/main.py"></a></li>
     <li>&#x274C Day 25: <a href="./Day25/main.py"></a></li>
