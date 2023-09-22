@@ -29,7 +29,7 @@ I'm not doing 1 each day but a few since I know a bit already.
     <li>&#x2714;&#xFE0F Day 21: <a href="./Day21/main.py">Snake Game Complete</a></li>
     <li>&#x2714;&#xFE0F Day 22: <a href="./Day22/main.py">Pong Game</a></li>
     <li>&#x2714;&#xFE0F Day 23: <a href="./Day23/main.py">Frogger</a></li>
-    <li>&#x274C Day 24: <a href="./Day24/main.py"></a></li>
+    <li>&#x2714;&#xFE0F Day 24: <a href="./Day24/main.py">Mail Merge</a></li>
     <li>&#x274C Day 25: <a href="./Day25/main.py"></a></li>
     <li>&#x274C Day 26: <a href="./Day26/main.py"></a></li>
     <li>&#x274C Day 27: <a href="./Day27/main.py"></a></li>
