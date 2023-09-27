@@ -32,7 +32,7 @@ I'm not doing 1 each day but a few since I know a bit already.
     <li>&#x2714;&#xFE0F Day 24: <a href="./Day24/main.py">Mail Merge</a></li>
     <li>&#x2714;&#xFE0F Day 25: <a href="./Day25/main.py">U.S. States Game</a></li>
     <li>&#x2714;&#xFE0F Day 26: <a href="./Day26/main.py">NATO Alphabet Project</a></li>
-    <li>&#x274C Day 27: <a href="./Day27/main.py"></a></li>
+    <li>&#x2714;&#xFE0F Day 27: <a href="./Day27/main.py">GUI Converter</a></li>
     <li>&#x274C Day 28: <a href="./Day28/main.py"></a></li>
     <li>&#x274C Day 29: <a href="./Day29/main.py"></a></li>
     <li>&#x274C Day 30: <a href="./Day30/main.py"></a></li>
