@@ -38,13 +38,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\Day31\data\words_to_learn.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
       </map>
     </option>
   </component>
