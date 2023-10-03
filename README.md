@@ -36,7 +36,7 @@ I'm not doing 1 each day but a few since I know a bit already.
     <li>&#x2714;&#xFE0F Day 28: <a href="./Day28/main.py">Pomodoro</a></li>
     <li>&#x2714;&#xFE0F Day 29: <a href="./Day29/main.py">Password Manager 1.0</a></li>
     <li>&#x2714;&#xFE0F Day 30: <a href="./Day30/main.py">Password Manager 2.0</a></li>
-    <li>&#x274C Day 31: <a href="./Day31/main.py"></a></li>
+    <li>&#x2714;&#xFE0F Day 31: <a href="./Day31/main.py">Learn English with flash cards</a></li>
     <li>&#x274C Day 32: <a href="./Day32/main.py"></a></li>
     <li>&#x274C Day 33: <a href="./Day33/main.py"></a></li>
     <li>&#x274C Day 34: <a href="./Day34/main.py"></a></li>
