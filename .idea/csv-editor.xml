@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="C:\Users\chris\Desktop\birthdays.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Day25\50_states.csv">
           <value>
             <Attribute>
@@ -32,13 +39,6 @@
           </value>
         </entry>
         <entry key="\Day31\data\Words.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\Day31\data\words_to_learn.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
