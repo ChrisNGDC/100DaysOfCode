@@ -39,7 +39,7 @@ I'm not doing 1 each day but a few since I know a bit already.
     <li>&#x2714;&#xFE0F Day 31: <a href="./Day31/main.py">Learn English with flash cards</a></li>
     <li>&#x2714;&#xFE0F Day 32: <a href="./Day32/main.py">Birthday Wisher</a></li>
     <li>&#x2714;&#xFE0F Day 33: <a href="./Day33/main.py">ISS Overhead</a></li>
-    <li>&#x274C Day 34: <a href="./Day34/main.py"></a></li>
+    <li>&#x2714;&#xFE0F Day 34: <a href="./Day34/main.py">UI Quiz Trivia</a></li>
     <li>&#x274C Day 35: <a href="./Day35/main.py"></a></li>
     <li>&#x274C Day 36: <a href="./Day36/main.py"></a></li>
     <li>&#x274C Day 37: <a href="./Day37/main.py"></a></li>
