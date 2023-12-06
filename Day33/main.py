@@ -4,6 +4,10 @@ import requests
 import datetime as dt
 import smtplib
 
+import os
+from env_var import define_env
+define_env()
+
 MY_LAT = -34.6075682
 MY_LONG = -58.4370894
 
@@ -37,8 +41,8 @@ def is_night():
 
 while True:
     if close_enough() and is_night():
-        mail = 'chris.code.testing@gmail.com'
-        password = input('Enter the password: ')
+        mail = os.getenv("mail")
+        password = os.getenv("password")
 
         with smtplib.SMTP("smtp.gmail.com", port=587) as conn:
             conn.starttls()

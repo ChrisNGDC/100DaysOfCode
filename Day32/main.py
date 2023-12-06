@@ -2,10 +2,12 @@ import smtplib
 import datetime as dt
 import random as r
 import pandas as p
+import os
+from env_var import define_env
+define_env()
 
-
-mail = 'chris.code.testing@gmail.com'
-password = input('Enter the password: ')
+mail = os.getenv("mail")
+password = os.getenv("password")
 
 
 def send_mail(name, email):
