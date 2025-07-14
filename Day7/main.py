@@ -4,7 +4,7 @@ import art
 
 lives = len(art.stages) - 1
 chosen_word = random.choice(words.word_list)
-guessed_words = []
+guessed_letters = []
 
 # Testing code
 print(f'Pssst, the solution is {chosen_word}.')
@@ -18,10 +18,10 @@ for _ in chosen_word:
 while "_" in display and lives > 0:
     print(art.stages[lives])
     guess = input("Guess a letter: ").lower()
-    if guess in guessed_words:
+    if guess in guessed_letters:
         print(f"{guess} was already guessed, try another letter.")
     else:
-        guessed_words += guess
+        guessed_letters += guess
         if guess in chosen_word:
             print("Correct")
             for pos in range(len(chosen_word)):
